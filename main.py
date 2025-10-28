@@ -179,4 +179,4 @@ with open("quranic_school.html", "w", encoding="utf-8") as f:
     f.write(html_content)
 
 webbrowser.open("quranic_school.html")
-print("✅ Quranic School interactive page generated successfully!")
+print(" Quranic School interactive page generated successfully!")
